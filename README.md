@@ -39,3 +39,40 @@ It highlights my **technical expertise**, **professional experiences**, and **pr
 
 ## 🧩 Folder Structure
 
+Portfolio/
+│
+├── index.html
+├── /css/
+│ └── style.css
+├── /Assets/
+│ ├── my img-1.jpg
+│ ├── c1.jpg
+│ └── c21.jpg
+├── Script.js
+└── Mohankumar_s.resume.docx
+
+🧑‍💻 Author
+
+S Mohan Kumar
+📍 Chittoor, Andhra Pradesh
+📧 mohans7032@gmail.com
+
+🔗 LinkedIn
+
+🐙 GitHub
+
+🪪 License
+
+This project is open-source and available under the MIT License.
+
+⭐ Acknowledgements
+
+Special thanks to:
+
+Boxicons for icons
+
+Tailwind CSS for styling support
+
+BICS Global & Scinex Edu Groups for internship experience that inspired this portfolio
+
+“Code with purpose, design with empathy, and build with passion.” – S Mohan Kumar
